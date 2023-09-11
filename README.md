@@ -1,4 +1,4 @@
-# Paras Kamaliya Profile README
+# Paras Profile README
 
 Hello, I'm Paras! 👋
 

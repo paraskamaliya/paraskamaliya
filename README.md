@@ -2,7 +2,7 @@
 
 Hello, I'm Paras! 👋
 
-I'm an Aspiring MERN Developer based in Surat, Gujarat. I'm passionate about Computer Sceince and enjoy Coding. Here's a little more about me:
+I'm an Aspiring MERN Developer based in Surat, Gujarat. I'm passionate about Computer science and enjoy Coding. Here's a little more about me:
 
 - 🔭 I'm currently working on My Portfolio.
 - 🌱 I'm constantly learning and exploring new things in Web Development.
@@ -17,7 +17,6 @@ Here are some of the skills and technologies I'm proficient in:
 
 - HTML, CSS, and JS
 - React.js, Chakra UI
-- ...
 
 ## Projects
 
@@ -36,6 +35,5 @@ I'm always interested in connecting with fellow developers, designers, and enthu
 
 - [LinkedIn](https://www.linkedin.com/in/paras-kamaliya-83a761192/)
 - [GitHub](https://github.com/paraskamaliya)
-- [Email](paraskamaliya5@gmail.com)
 
 Looking forward to connecting with you! 😊

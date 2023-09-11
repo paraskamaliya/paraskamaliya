@@ -27,7 +27,7 @@ I've worked on several exciting projects, including:
    - Description: Recently completed E-commerce project with user and admin sides. Attractive UI with all device responsiveness. Attractive single product page. Users can access recently visited products. Technologies used: React, HTML, CSS, etc.
 
 2. **Connect**:
-   - [View Project](https://connect0.netlify.app/)
+   - [View Project](https://connect-lms01.netlify.app/)
    - Description: Collaborative Project with 5 members of the team in 6 days. Management website with three user sides. Admin, Manager, and student all have limited features. Some main features like Discussion(Real-time Chat), Announcements, and Dark Mode. Technologies used: React, etc.
    
 Feel free to explore my repositories for more!

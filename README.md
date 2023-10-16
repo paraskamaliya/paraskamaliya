@@ -50,4 +50,4 @@ I'm always interested in connecting with fellow developers, designers, and enthu
 
 Looking forward to connecting with you! 😊
 
-![](https://visitcount.itsvg.in/api?id=Paraskamaliya&label=Profile%20Views&color=0&icon=3&pretty=false)
+![](https://visitcount.itsvg.in/api?id=Paraskamaliya&label=Profile%20Views&color=6&icon=3&pretty=false)

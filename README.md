@@ -34,7 +34,7 @@ Feel free to explore my repositories for more!
 I'm always interested in connecting with fellow developers, designers, and enthusiasts. You can find me on:
 
 - [Portfolio](https://paraskamaliya.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/paras-kamaliya-83a761192/)
+- [LinkedIn](https://www.linkedin.com/in/paraskamaliya/)
 - [GitHub](https://github.com/paraskamaliya)
 
 Looking forward to connecting with you! 😊
